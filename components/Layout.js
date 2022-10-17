@@ -21,7 +21,7 @@ export default function Layout({ children }) {
       </div>
 
       <footer>
-        <p>Copyright 2021 Just Add Salt :)</p>
+        <p>Copyright 2022 Just Add Salt :)</p>
       </footer>
     </div>
   )
